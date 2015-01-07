@@ -3,5 +3,5 @@ Website
 
 Website
 
-Copyright (c) Regal Disclaimer 2014 All Rights Reserved.
+Copyright (c) Regal Disclaimer All Rights Reserved.
 Contact: regaldisclaimer@gmail.com for all usage permissions
